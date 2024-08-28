@@ -1,3 +1,5 @@
+BookKing
+
 This is the project we are creating for our second-year computing group project module.
 
 Online booking platforms have become increasingly popular as consumers seek the convenience of arranging services from home. Multi-service booking platforms, in particular, offer a one-stop solution, allowing users to book various services such as travel, accommodation, activities, and transportation through a single interface.
